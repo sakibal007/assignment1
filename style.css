@@ -1,0 +1,118 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.sec-1 {
+    display: flex;
+    width: 100%;
+}
+
+.div1 {
+    width: 50%;
+    margin: 40px 60px;
+}
+
+.div2 {
+    width: 50%;
+
+}
+
+.div2 img {
+    width: 60%;
+
+}
+
+.head1 {
+    font-size: 50px;
+    border-left: 4px solid rgb(226, 121, 139);
+    padding: 10px;
+}
+
+.div1 a {
+    text-decoration: none;
+    background-color: pink;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+.sec-2 h1 {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.div3 {
+    Display: flex;
+    margin: 5px 100px;
+}
+
+.div3 img {
+    width: 30%;
+}
+
+.baby-div {
+    width: 33%;
+    padding: 25px;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 0px 20px;
+
+}
+
+.sec-3 {
+    display: flex;
+    margin-top: 150px;
+
+}
+
+.sec-3 img {
+    width: 45%;
+    float: right;
+}
+
+.sec3div1 {
+    margin-right: 10px;
+    background-image: url(images/shapes/shape-1.png);
+    width: 50%;
+}
+
+.sec3div2 {
+    margin-left: 10px;
+    width: 50%;
+    padding-right: 20px;
+}
+
+.sec3div2 a {
+    text-decoration: none;
+    background-color: palevioletred;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+.sec3div2 h1 {
+    font-size: 30px;
+}
+
+footer {
+    background-color: rgb(2, 1, 12);
+    height: 200px;
+    text-align: center;
+    color: azure;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+footer p {
+    font-family: 'Send Flowers', cursive;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.sec3div1 img:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
